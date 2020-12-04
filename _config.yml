@@ -6,9 +6,9 @@
 title: 浮云轻雨
 subtitle: '绫羽kiry的blog'
 description: '绫羽kiry的blog'
-keywords: 暂无
+keywords: 绫羽kiry
 author: 绫羽kiry
-language: zh-Hans
+language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
@@ -98,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: butterfly
+theme: landscape
 Plugins: 
 - hexo-generate-feed
 
@@ -106,6 +106,6 @@ Plugins:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: https://github.com/upkiry/upkiry.github.io.git
+  repo: git@github.com:UpKiry/upkiry.github.io.git
   branch: master
   
