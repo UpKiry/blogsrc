@@ -1,5 +1,5 @@
 ---
-title: 写给自己看的注意事项
+title: Node本地化配置
 date: 2020-11-22 01:04:22
 updated: 2020-11-22 01:04:22
 tags: 'Nodejs'
@@ -32,21 +32,4 @@ cmd /c npm config set registry https://registry.npm.taobao.org
 exit
 ```
 
-
-
-## Hexo 依赖
-
-```cmd
-npm install hexo -g
-# 要全局哦
-
-npm install -g
-# 在博客目录执行，会自动处理依赖
-
-npm install --save hexo-deployer-git
-# 想都不用想就知道是干嘛的了吧？
-
-npm install -g hexo-generator-feed
-# 这个是用来搞RSS的
-```
 

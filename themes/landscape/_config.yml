@@ -3,8 +3,7 @@ menu:
   Home: /
   Archives: /archives
   About: /About
-rss: /atom.xml
-search: /search.xml
+rss: /atom.xml 
 
 # Content
 excerpt_link: Read More
