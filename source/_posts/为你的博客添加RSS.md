@@ -3,7 +3,7 @@ title: 为你的博客添加RSS
 comments: true
 date: 2020-11-22 08:47:40
 updated: 2020-11-22 08:47:40
-tags: 'Nodejs'
+tags: ['Nodejs', 'hexo']
 categories: '笔记'
 ---
 
