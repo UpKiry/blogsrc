@@ -14,7 +14,7 @@ categories: '笔记'
 
 >  点击图片跳转至下载页
 
-[<img src="https://i.loli.net/2020/12/05/9Twd4xYySmXuDtP.png" alt="v2ray_1.png" style="zoom:50%;" />](https://tlanyan.me/v2ray-clients-download/)
+[<img src="https://i.loli.net/2020/12/05/9Twd4xYySmXuDtP.png" alt="" style="zoom:50%;" />](https://tlanyan.me/v2ray-clients-download/)
 
 下载完解压，第一步就算完成了。
 
@@ -26,7 +26,7 @@ categories: '笔记'
 
 运行后的界面大概是这样的（我的 v2rayN 早就有点东西了）
 
-![v2ray_2.png](https://i.loli.net/2020/12/05/LUDpYjI4v6Q1zaZ.png)
+<img src="https://i.loli.net/2020/12/05/LUDpYjI4v6Q1zaZ.png" alt="" style="zoom: 33%;" />
 
 ## 添加 vmess 订阅
 
