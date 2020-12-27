@@ -34,11 +34,11 @@ categories: '笔记'
 
 在弹出来的菜单中，这个备注名是给自己看的，随便填。url 就填你获取到的`订阅地址`就好了
 
-> 这里比较推荐 v2free 这个源
+> ~~这里比较推荐 v2free 这个源~~
 >
-> [v2free 注册](https://v2free.org/auth/register?code=iVtT) <- 这是一个推广链接。当您通过它注册时，我将会恰到饭。何乐而不为？
+> ~~[v2free 注册](https://v2free.org/auth/register?code=iVtT) <- 这是一个推广链接。当您通过它注册时，我将会恰到饭。何乐而不为？~~
 >
-> 注册后，进入[用户中心](https://v2free.org/user)，拷贝订阅链接填到上面的 url 一项，就OK了
+> ~~注册后，进入[用户中心](https://v2free.org/user)，拷贝订阅链接填到上面的 url 一项，就OK了~~
 
 然后点击`更新订阅`，你就会看到有许多的服务器出现在列表中。
 
