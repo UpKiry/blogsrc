@@ -12,9 +12,7 @@ categories: '笔记'
 
 或许，百度上搜索 v2ray 时弹出的第一个站点是个不错的选择？
 
->  点击图片跳转至下载页
-
-[<img src="https://i.loli.net/2020/12/05/9Twd4xYySmXuDtP.png" alt="" style="zoom:50%;" />](https://tlanyan.me/v2ray-clients-download/)
+[<img src="https://i.loli.net/2020/12/05/9Twd4xYySmXuDtP.png" alt="点击图片跳转" style="zoom:50%;" />](https://tlanyan.me/v2ray-clients-download/)
 
 下载完解压，第一步就算完成了。
 
@@ -26,7 +24,7 @@ categories: '笔记'
 
 运行后的界面大概是这样的（我的 v2rayN 早就有点东西了）
 
-<img src="https://i.loli.net/2020/12/05/LUDpYjI4v6Q1zaZ.png" alt="" style="zoom: 33%;" />
+<img src="https://i.loli.net/2020/12/05/LUDpYjI4v6Q1zaZ.png" alt="" style="zoom: 25%;" />
 
 ## 添加 vmess 订阅
 
