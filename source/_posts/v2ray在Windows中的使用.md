@@ -12,7 +12,7 @@ categories: '笔记'
 
 或许，百度上搜索 v2ray 时弹出的第一个站点是个不错的选择？
 
-[<img src="https://i.loli.net/2020/12/05/9Twd4xYySmXuDtP.png" alt="点击图片跳转" style="zoom:50%;" />](https://tlanyan.me/v2ray-clients-download/)
+[<img src="https://i.loli.net/2020/12/05/9Twd4xYySmXuDtP.png" alt="点击此处跳转" style="zoom:50%;" />](https://tlanyan.me/v2ray-clients-download/)
 
 下载完解压，第一步就算完成了。
 
