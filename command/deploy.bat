@@ -1,1 +1,1 @@
-hexo clean && hexo deploy --debug
+hexo deploy --debug
